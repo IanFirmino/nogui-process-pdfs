@@ -16,7 +16,7 @@
 Isso executará o script para um colaborador específico.
 
 - Executar para Todos os Colaboradores:
-main.exe run_all
+´´´main.exe run_all´´´
 Isso executará o script para todos os colaboradores listados em colaboradores.
 
 - Adicionar um Novo Colaborador:
