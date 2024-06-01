@@ -10,7 +10,9 @@
 *database.json deve estar no mesmo caminho do main.exe
 
 - Executar para um Colaborador:
+´´´
 main.exe run
+´´´
 Isso executará o script para um colaborador específico.
 
 - Executar para Todos os Colaboradores:
